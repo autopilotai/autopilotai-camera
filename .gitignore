@@ -95,3 +95,15 @@ ENV/
 # Test script
 ArloTest.py*
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Sensitive files
+gmail.credentials
+google_client_credentials.json
